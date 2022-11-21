@@ -1,5 +1,7 @@
 # Big-Data-Instacart-ML
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=natasabrisudova&repo=Big-Data-Instacart-ML&countColor=%237B1E7A)
+
 Instacart competition
 
 - Kaggle competition - a sample dataset of over 3 million grocery orders from more than 200.000 users. The orders include 32 million basket items and 50.000 unique products
