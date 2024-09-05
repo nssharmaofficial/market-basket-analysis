@@ -1,6 +1,6 @@
 # Market basket analysis
 
-This project was an assignment for the Big Data class at University of Siena. You can look at the final [report](./Big Data Project.pptx) for more details.
+This project was an assignment for the Big Data class at University of Siena. You can look at the final report `Big Data Project.pptx` for more details.
 
 ## About
 
